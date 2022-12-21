@@ -1,7 +1,10 @@
 # LbFS-Visual-Tracking
 Correlation Filter-based Visual Tracking using VGG Features with Loss based Feature Selection
 
-[![Video Label](https://www.youtube.com/watch?v=-jUjDpLfOw4)
+Author : [Bumsoo Kim](https://github.com/gh-BumsooKim)
+
+## [YouTube](https://www.youtube.com/watch?v=-jUjDpLfOw4)
+
 
 ## Framework
 
